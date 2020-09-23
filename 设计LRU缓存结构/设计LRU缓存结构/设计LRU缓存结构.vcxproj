@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{34BEEEEF-2FCF-48CB-A0F1-BE17D0EA09F6}</ProjectGuid>
-    <RootNamespace>合并两个排序的链表</RootNamespace>
+    <ProjectGuid>{E45619B1-0209-4C02-8AC0-05D5948AA98A}</ProjectGuid>
+    <RootNamespace>设计LRU缓存结构</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,8 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="JZ.cpp" />
-    <ClCompile Include="合并两个有序的数组.cpp" />
+    <ClCompile Include="0922.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

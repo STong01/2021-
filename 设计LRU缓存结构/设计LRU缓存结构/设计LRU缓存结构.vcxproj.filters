@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="JZ.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="合并两个有序的数组.cpp">
+    <ClCompile Include="0922.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
